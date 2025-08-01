@@ -1,0 +1,8 @@
+[33m8d5759d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m fix: correct indentation and update Python version in main.ipynb
+[33mec076a1[m[33m ([m[1;32mtrain[m[33m)[m fix: update execution counts and fix import errors in main.ipynb for YOLO model training
+[33mac6afce[m fix: update execution counts and output metrics in main.ipynb for YOLO model training
+[33m006490a[m chore: update .gitignore to exclude runs directory
+[33m10b3df4[m feat: add Jupyter notebook for directory size calculation and YOLO model training
+[33mac18eb1[m feat: add rdd2022.yaml configuration for dataset paths and class names
+[33mb693977[m chore: update .gitignore to exclude venv_cuda directory
+[33m9452101[m feat: add .gitignore to exclude dataset directories
